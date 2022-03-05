@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186615595540",
+    "project_id": "fir-authsall",
+    "storage_bucket": "fir-authsall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186615595540:android:efe2e97213e27bf0669d01",
+        "android_client_info": {
+          "package_name": "com.example.akshay.firebaseauthsall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186615595540-b1uv7qr16i1thj8lgrm9h3a7m8ro0v4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqi8P6dySL0NQbwCDlvmGF9WxNnOsWYfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186615595540-b1uv7qr16i1thj8lgrm9h3a7m8ro0v4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
